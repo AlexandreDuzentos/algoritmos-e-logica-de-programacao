@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1694639030 source:c:\curso de lógica de programação e algoritmos\linguagem c\meuprojeto\main.c
+	<stdio.h>
+	<stdlib.h>
+
