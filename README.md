@@ -45,29 +45,3 @@ Este curso é ideal para **iniciantes em programação**, ensinando os fundament
 ✅ Aplicação dos conceitos aprendidos através de desafios práticos  
 ✅ Desenvolvimento de algoritmos para resolver problemas reais  
 ✅ Treinamento para lógica de programação e pensamento computacional  
-
-## 📥 Como Usar este Repositório  
-
-1. **Clone este repositório:**  
-   ```bash
-   git clone https://github.com/seu-usuario/curso-logica-programacao.git
-   cd curso-logica-programacao
-   ```
-
-2. **Navegue pelos módulos:**  
-   - Cada **módulo** tem uma pasta correspondente com exemplos e exercícios.  
-   - Os códigos estão disponíveis em **Pseudocódigo (VisuAlg), C, Java e Python**.  
-
-3. **Pratique e experimente:**  
-   - Abra os arquivos nos respectivos editores (VisuAlg, CodeBlocks, Eclipse, VS Code).  
-   - Execute os códigos e modifique-os para consolidar o aprendizado.  
-
-## 🤝 Contribuição  
-
-Se você deseja sugerir melhorias ou encontrou algum erro, sinta-se à vontade para abrir um **pull request**!  
-
-## 📜 Licença  
-
-Este repositório é um material de estudo baseado no curso do **Nélio Alves** na **Udemy**. Todo o conteúdo original pertence ao autor.  
-
-
